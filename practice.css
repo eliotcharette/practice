@@ -1,0 +1,16 @@
+h1 {
+  font-size: 50px;
+  color: blue;
+  font-family: Sans-serif;
+}
+
+h2 {
+  font-family: Monospace;
+  color: green;
+}
+
+p {
+  text-align: center;
+  text-shadow: 1px 1px 1px green;
+  font-size: 20px;
+}
